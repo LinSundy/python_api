@@ -1,2 +1,2 @@
 # python_api
-接口
+使用python写的api接口
